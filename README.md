@@ -1,2 +1,2 @@
-# ingresso-eticket
-Projeto feito durante o curso de prática em lógica de programação da Alura.
+# 🎫 E-Ticket
+Projeto feito durante o curso "Lógica de programação: praticando com desafios" da Alura.
